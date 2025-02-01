@@ -1,0 +1,1 @@
+file:///app/qrcode_todecode.jpg: No barcode found
