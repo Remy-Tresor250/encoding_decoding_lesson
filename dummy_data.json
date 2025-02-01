@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Michelle Anderson",
+    "email": "davidcook@example.net",
+    "level": "ICHOOSE",
+    "gender": "MALE"
+  },
+  {
+    "name": "David Rogers",
+    "email": "kellysmith@example.net",
+    "level": "ICHOOSE",
+    "gender": "MALE"
+  },
+  {
+    "name": "Colton Wheeler",
+    "email": "xlucero@example.com",
+    "level": "ICHOOSE",
+    "gender": "MALE"
+  },
+  {
+    "name": "Mark Cruz",
+    "email": "morrisrobert@example.org",
+    "level": "ICHOOSE",
+    "gender": "FEMALE"
+  },
+  {
+    "name": "Jeanette Fox",
+    "email": "brandy31@example.net",
+    "level": "ICHOOSE",
+    "gender": "MALE"
+  },
+  {
+    "name": "Jeremy Marshall",
+    "email": "kathyphillips@example.org",
+    "level": "ICHOOSE",
+    "gender": "FEMALE"
+  },
+  {
+    "name": "Justin Knapp",
+    "email": "michaelfletcher@example.org",
+    "level": "ICHOOSE",
+    "gender": "MALE"
+  },
+  {
+    "name": "Michael Burton",
+    "email": "kgray@example.com",
+    "level": "ICHOOSE",
+    "gender": "FEMALE"
+  },
+  {
+    "name": "Anne Newton",
+    "email": "tmedina@example.net",
+    "level": "ICHOOSE",
+    "gender": "FEMALE"
+  },
+  {
+    "name": "Miguel Conner",
+    "email": "frankmiller@example.com",
+    "level": "ICHOOSE",
+    "gender": "FEMALE"
+  },
+  {
+    "name": "Nathan Hammond",
+    "email": "aaronfoster@example.org",
+    "level": "ICHOOSE",
+    "gender": "FEMALE"
+  },
+  {
+    "name": "Michael Herrera",
+    "email": "hgates@example.org",
+    "level": "ICHOOSE",
+    "gender": "FEMALE"
+  },
+  {
+    "name": "Matthew Hudson",
+    "email": "hbailey@example.com",
+    "level": "ICHOOSE",
+    "gender": "FEMALE"
+  },
+  {
+    "name": "Joann Jones",
+    "email": "hallmorgan@example.org",
+    "level": "ICHOOSE",
+    "gender": "FEMALE"
+  },
+  {
+    "name": "Jacqueline Bennett",
+    "email": "robertvasquez@example.net",
+    "level": "ICHOOSE",
+    "gender": "MALE"
+  },
+  {
+    "name": "Tonya Gomez MD",
+    "email": "opeterson@example.com",
+    "level": "ICHOOSE",
+    "gender": "MALE"
+  },
+  {
+    "name": "James Lindsey",
+    "email": "paulwells@example.com",
+    "level": "ICHOOSE",
+    "gender": "MALE"
+  },
+  {
+    "name": "Theresa Benson",
+    "email": "andrea13@example.net",
+    "level": "ICHOOSE",
+    "gender": "FEMALE"
+  },
+  {
+    "name": "Robert Miller",
+    "email": "tramos@example.com",
+    "level": "ICHOOSE",
+    "gender": "MALE"
+  },
+  {
+    "name": "Isaiah Thompson",
+    "email": "rosslisa@example.com",
+    "level": "ICHOOSE",
+    "gender": "MALE"
+  }
+]
