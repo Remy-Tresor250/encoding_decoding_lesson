@@ -8,7 +8,7 @@ javase_jar = "javase-3.5.0.jar"
 core_jar = "core-3.5.0.jar"
 jcommander_jar = "jcommander-1.82.jar"
 
-barcode_image = "to_decode.jpg"
+barcode_image = "pdf_417_variants/to_decode.jpg"
 
 # Validate required files
 for file in [javase_jar, core_jar, jcommander_jar, barcode_image]:
