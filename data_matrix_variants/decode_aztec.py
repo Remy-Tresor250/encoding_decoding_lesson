@@ -1,3 +1,4 @@
+import utils.session
 import imageio.v3 as imageio
 import numpy as np
 from PIL import Image
